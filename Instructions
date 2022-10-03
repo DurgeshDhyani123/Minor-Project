@@ -1,0 +1,23 @@
+1 for Library  
+2 for Student  
+3 for Teacher 
+Enter option 1/2/3
+
+1 for Add Book in Library  
+2 for Registering Student in library  
+3 for Adding Teacher Details in Library 
+Enter option 1/2/3 
+
+
+first entry for adding book and getting details of it
+1 for Add Book  
+2 for View Added Book List  
+3 for Modify Book Details 
+Enter option 1/2/3
+
+
+1 for Register Student 
+2 for View Added Student List  
+3 for Modify Student Details 
+4 for unregistered student  Details 
+Enter option 1/2/3/4 
